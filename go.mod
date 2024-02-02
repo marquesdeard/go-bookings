@@ -1,4 +1,4 @@
-module github.com/marquesdeard/bookings
+module github.com/marquesdeard/go-bookings
 
 go 1.21.3
 

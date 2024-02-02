@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/marquesdeard/bookings/pkg/config"
-	"github.com/marquesdeard/bookings/pkg/models"
-	"github.com/marquesdeard/bookings/pkg/render"
+	"github.com/marquesdeard/go-bookings/pkg/config"
+	"github.com/marquesdeard/go-bookings/pkg/models"
+	"github.com/marquesdeard/go-bookings/pkg/render"
 )
 
 // Repo the repository used by the handlers
