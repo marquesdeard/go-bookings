@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/marquesdeard/go-bookings/pkg/config"
-	"github.com/marquesdeard/go-bookings/pkg/handlers"
-	"github.com/marquesdeard/go-bookings/pkg/render"
+	"github.com/marquesdeard/go-bookings/internal/config"
+	"github.com/marquesdeard/go-bookings/internal/handlers"
+	"github.com/marquesdeard/go-bookings/internal/render"
 )
 
 var port = ":8080"
